@@ -113,6 +113,7 @@ SITEMAP = {
 
 FAVICON = 'https://dl.dropboxusercontent.com/u/299446/logo.png'
 ICON = 'https://dl.dropboxusercontent.com/u/299446/logo.png'
+ICON_INVERT = 'https://dl.dropboxusercontent.com/u/299446/logo-invert.png'
 SHORTCUT_ICON = 'https://dl.dropboxusercontent.com/u/299446/logo.png'
 
 # About ME
